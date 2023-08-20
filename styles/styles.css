@@ -1,0 +1,10 @@
+body {
+  scroll-behavior: smooth;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50% !important;
+    margin-left: auto;
+  }
+}
